@@ -13,6 +13,8 @@ A modern payment application clone built with React, Node.js, and MongoDB, featu
 - **Account Management**
   - Create and manage user accounts
   - View transaction history
+  - ![Screenshot 2025-05-23 at 11 55 45 PM](https://github.com/user-attachments/assets/24cf8cd3-3fb1-4732-a763-4314c7155f9a)
+
   - Real-time balance updates
 
 - **Modern UI/UX**
